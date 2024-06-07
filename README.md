@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandrashekar Reddy V
+- 👋 Hi, I’m @Chandrashekar Reddy V
 
 <!---
 chandrashekarreddyv/chandrashekarreddyv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
