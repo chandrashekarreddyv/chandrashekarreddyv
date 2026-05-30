@@ -93,8 +93,8 @@ I'm a ** infrastructure consultant** specializing in **Nutanix HCI** and **Red H
 
 Looking for a **Nutanix or Red Hat expert** for your next project?
 
-- 💬 Message me on [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: **your@email.com**
-- 🌐 Website: **yourwebsite.com**
+- 💬 Message me on [LinkedIn](https://www.linkedin.com/in/chandrashekar-reddy-v/)
+- 📧 Email: **chandrashekarrv01@gmail.com**
+
 
 > *"I help enterprises build reliable, scalable, and AI-ready infrastructure using Nutanix and Red Hat platforms."*
