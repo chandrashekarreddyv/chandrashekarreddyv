@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
-<h3 align="center">🚀 Freelance Cloud Infrastructure & HCI Consultant</h3>
+<h1 align="center">👋 Hi, I'm Chandrashekar Reddy V</h1>
+<h3 align="center">🚀 Cloud Infrastructure & HCI Consultant</h3>
 <h4 align="center">Nutanix • Red Hat OpenShift • Enterprise AI • Kubernetes</h4>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **freelance infrastructure consultant** specializing in **Nutanix HCI** and **Red Hat OpenShift** platforms. I help enterprises design, deploy, and manage modern cloud infrastructure — from bare-metal HCI clusters to AI-ready Kubernetes platforms.
+I'm a ** infrastructure consultant** specializing in **Nutanix HCI** and **Red Hat OpenShift** platforms. I help enterprises design, deploy, and manage modern cloud infrastructure — from bare-metal HCI clusters to AI-ready Kubernetes platforms.
 
 - 🌍 Available for **remote & on-site** freelance projects worldwide
 - 🏗️ Focus: **HCI deployments, container platforms, enterprise AI infrastructure**
-- 📩 Open to new projects — reach me at **[your@email.com]**
+- 📩 Open to new projects — reach me at **[chandrashekarrv01@gmail.com]**
 
 ---
 
@@ -77,7 +77,6 @@ I'm a **freelance infrastructure consultant** specializing in **Nutanix HCI** an
 - 🏅 Nutanix Certified Professional (NCP-MCI)
 - 🏅 Red Hat Certified System Administrator (RHCSA)
 - 🏅 Red Hat Certified Engineer (RHCE)
-- *(Add your actual certifications here)*
 
 ---
 
