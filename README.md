@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm Chandrashekar Reddy V </h1>
 <h3 align="center">🚀 Freelance Cloud Infrastructure & HCI Consultant</h3>
 <h4 align="center">Nutanix • Red Hat OpenShift • Enterprise AI • Kubernetes</h4>
 
