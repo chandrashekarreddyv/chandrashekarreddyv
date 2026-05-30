@@ -1,11 +1,10 @@
-<h1 align="center">👋 Hi, I'm Chandrashekar Reddy V </h1>
-<h3 align="center">🚀 Cloud Infrastructure & HCI Consultant</h3>
+<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h3 align="center">🚀 Freelance Cloud Infrastructure & HCI Consultant</h3>
 <h4 align="center">Nutanix • Red Hat OpenShift • Enterprise AI • Kubernetes</h4>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/chandrashekar-reddy-v/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="chandrashekarrv01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> -->
+  <a href="https://www.linkedin.com/in/chandrashekar-reddy-v/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:chandrashekarrv01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
