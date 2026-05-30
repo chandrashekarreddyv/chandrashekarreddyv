@@ -13,7 +13,7 @@
 
 I'm a ** infrastructure consultant** specializing in **Nutanix HCI** and **Red Hat OpenShift** platforms. I help enterprises design, deploy, and manage modern cloud infrastructure — from bare-metal HCI clusters to AI-ready Kubernetes platforms.
 
-- 🌍 Available for **remote & on-site** freelance projects worldwide
+- 🌍 Available for **remote & on-site**  projects worldwide
 - 🏗️ Focus: **HCI deployments, container platforms, enterprise AI infrastructure**
 - 📩 Open to new projects — reach me at **[chandrashekarrv01@gmail.com]**
 
