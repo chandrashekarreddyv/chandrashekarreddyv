@@ -80,14 +80,6 @@ I'm a ** infrastructure consultant** specializing in **Nutanix HCI** and **Red H
 
 ---
 
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark&hide_border=true" width="48%"/>
-</p>
-
----
-
 ## 📩 Let's Work Together
 
 Looking for a **Nutanix or Red Hat expert** for your next project?
